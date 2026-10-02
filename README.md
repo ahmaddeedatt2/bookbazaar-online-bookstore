@@ -104,8 +104,8 @@ The default local development configuration uses:
 ```text
 Host: localhost
 Database: bookstore
-Username: root
-Password: 
+Username: admin
+Password: admin
 ```
 
 For a local XAMPP environment, the database can be initialized using the provided `bookstore.sql` file through phpMyAdmin.
